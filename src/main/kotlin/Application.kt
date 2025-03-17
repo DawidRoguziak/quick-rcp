@@ -1,4 +1,4 @@
-package com.example
+package rcp.main
 
 import io.ktor.server.application.*
 
